@@ -394,10 +394,12 @@ export default function Page() {
         </div>
       </section>
 
-      <footer className="footer">
-        <div className="container">
-          <h2>Home & Heart Digital Knowledge Hub</h2>
-          <p>Developed as an open-access digital platform for inclusive family sport, online engagement, learning resources and long-term replication.</p>
+      <footer className="footer eu-footer">
+        <div className="container eu-footer-inner">
+          <div className="footer-main">
+            <h2>Home & Heart Digital Knowledge Hub</h2>
+            <p>Developed as an open-access digital platform for inclusive family sport, online engagement, learning resources and long-term replication.</p>
+          </div>
           <div className="eu-visibility" aria-label="European Union funding visibility">
             <img src="/visuals/eu-co-funded.png" alt="Co-funded by the European Union" />
             <p>Funded by the European Union. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or the European Education and Culture Executive Agency (EACEA). Neither the European Union nor EACEA can be held responsible for them.</p>
